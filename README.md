@@ -16,3 +16,5 @@ Este proyecto está actualmente en una lista de espera. Sigue este proyecto para
 
 هذا المشروع حاليًا في قائمة الانتظار. يمكنك متابعة المشروع لتلقي إشعار فور صدوره.
 
+![watch](https://github.com/user-attachments/assets/4601184c-7e8e-4531-9a49-938be1ac2dfc)
+
