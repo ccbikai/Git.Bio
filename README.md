@@ -7,7 +7,7 @@
 
 <img width="360" align="right" src="https://github.com/user-attachments/assets/4601184c-7e8e-4531-9a49-938be1ac2dfc" />
 
-This project is currently on a waitlist. Watch this project to be notified as soon as it is released.
+This project is currently on a waitlist. **Watch** this project to be notified as soon as it is released.
 
 此项目当前是一个候补名单。关注此项目可以在发布后第一时间得到通知。
 
